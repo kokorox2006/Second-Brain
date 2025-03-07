@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "file-explorer:new-file",
+    "workspace:split-vertical",
+    "workspace:edit-file-title",
+    "workspace:close",
+    "app:show-release-notes"
+  ]
+}

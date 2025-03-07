@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "c0df22e70f74f8a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "69fd8051df757ff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "066a4b0529bfdb3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Journal/Daily Notes/07-03-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07-03-2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ff8232a886ec882",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5e7d24df81bc529",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae89e23a262ca63d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6de91534f462c4f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "81ac56c3d15635ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e0a82b4623a27f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ba577f7d08b17b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be6dcad4e12e1f9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "10484fc640420356",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f84c055302a2d114",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3dbda89443837558",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5d299162f9a0109e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "066a4b0529bfdb3c",
+  "lastOpenFiles": [
+    "06 Toolkit/Templates/Daily Note.md",
+    "05 Journal/Daily Notes/07-03-2025.md",
+    "03 Spaces/Canvas Mind Maps/Untitled.canvas",
+    "Untitled 1.canvas",
+    "00 NoteLab/2025-03-07.md",
+    "Untitled.canvas",
+    "Welcome.md",
+    "06 Toolkit/Templates",
+    "06 Toolkit/Snippet Code",
+    "06 Toolkit/Scripts",
+    "06 Toolkit/PDFs",
+    "06 Toolkit/Pdfs",
+    "06 Toolkit/Images",
+    "06 Toolkit/Attachments",
+    "05 Journal/Plans or Meetings",
+    "05 Journal/Quaterly Reviews",
+    "05 Journal/Monthly Reviews"
+  ]
+}
