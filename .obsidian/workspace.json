@@ -6,19 +6,52 @@
       {
         "id": "69fd8051df757ff8",
         "type": "tabs",
+        "dimension": 57.90488431876607,
         "children": [
           {
-            "id": "066a4b0529bfdb3c",
+            "id": "2d03e77bc18e8c98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Journal/Daily Notes/07-03-2025.md",
+                "file": "01 MOCs/React Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07-03-2025"
+              "title": "React Index"
+            }
+          },
+          {
+            "id": "933bd967edf7ae79",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4de0d8abea43203b",
+        "type": "tabs",
+        "dimension": 42.095115681233935,
+        "children": [
+          {
+            "id": "e921c45f838a1f02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 MOCs/React Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of React Index"
             }
           }
         ]
@@ -179,13 +212,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "066a4b0529bfdb3c",
+  "active": "2d03e77bc18e8c98",
   "lastOpenFiles": [
-    "06 Toolkit/Templates/Daily Note.md",
+    "04 Vault/Courses/React/01 Fundamentals of React.md",
+    "00 NoteLab/useRef.md",
+    "04 Vault/Courses/React/useReducer.md",
+    "04 Vault/Courses/React/useContext.md",
+    "04 Vault/Courses/React/Portal.md",
+    "04 Vault/Courses/React/useEffect.md",
+    "00 NoteLab/context.md",
+    "04 Vault/Courses/React/Context API.md",
+    "00 NoteLab/Prop Drilling.md",
+    "04 Vault/Courses/React/useState.md",
+    "04 Vault/Courses/React/State.md",
+    "04 Vault/Courses/React/Props.md",
+    "00 NoteLab/Events.md",
+    "00 NoteLab/Conditional Rendering.md",
+    "04 Vault/Courses/React/Jsx.md",
+    "04 Vault/Courses/React/Components.md",
+    "01 MOCs/React Index.md",
+    "04 Vault/Courses/React",
+    "01 MOCs/Start Here.md",
+    "00 NoteLab/2025-03-07.md",
+    "00 NoteLab/Kung Fu Pannda.md",
+    "00 NoteLab/Quote.md",
+    "05 Journal/Daily Notes/11-03-2025.md",
     "05 Journal/Daily Notes/07-03-2025.md",
+    "06 Toolkit/Templates/Daily Note.md",
     "03 Spaces/Canvas Mind Maps/Untitled.canvas",
     "Untitled 1.canvas",
-    "00 NoteLab/2025-03-07.md",
     "Untitled.canvas",
     "Welcome.md",
     "06 Toolkit/Templates",
@@ -196,7 +251,6 @@
     "06 Toolkit/Images",
     "06 Toolkit/Attachments",
     "05 Journal/Plans or Meetings",
-    "05 Journal/Quaterly Reviews",
-    "05 Journal/Monthly Reviews"
+    "05 Journal/Quaterly Reviews"
   ]
 }

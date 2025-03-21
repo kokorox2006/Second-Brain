@@ -3,5 +3,6 @@
   "trashOption": "none",
   "newFileLocation": "folder",
   "newFileFolderPath": "00 NoteLab",
-  "attachmentFolderPath": "06 Toolkit/Images"
+  "attachmentFolderPath": "06 Toolkit/Images",
+  "spellcheck": false
 }
